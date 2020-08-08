@@ -23,7 +23,7 @@ function CustomDrawerContent({
     ["About us","AboutScreen"],
     ["Privacy Policy","PrivacyScreen"],
     ["Terms & Conditions","TermScreen"],
-    ["Refund Policy","RefundScreen"],
+    // ["Refund Policy","RefundScreen"],
     ["Contact us","ContactScreen"],
   ];
   return (
